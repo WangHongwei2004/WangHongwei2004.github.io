@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on 王鈜炜-WangHongwei</title>
+        <title>Tags on WangHongwei</title>
         <link>https://WangHongwei2004.github.io/tags/</link>
-        <description>Recent content in Tags on 王鈜炜-WangHongwei</description>
+        <description>Recent content in Tags on WangHongwei</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>王鈜炜-WangHongwei</copyright><atom:link href="https://WangHongwei2004.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>WangHongwei</copyright><atom:link href="https://WangHongwei2004.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
