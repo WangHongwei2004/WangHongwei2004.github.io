@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 王鈜炜-WangHongwei</title>
+        <link>https://WangHongwei2004.github.io/post/</link>
+        <description>Recent content in Posts on 王鈜炜-WangHongwei</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>王鈜炜-WangHongwei</copyright>
+        <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://WangHongwei2004.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>常用网站与工具合集</title>
+        <link>https://WangHongwei2004.github.io/p/test-chinese/</link>
+        <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://WangHongwei2004.github.io/p/test-chinese/</guid>
+        <description>&lt;img src="https://WangHongwei2004.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 常用网站与工具合集" /&gt;&lt;h2 id=&#34;正文&#34;&gt;正文
+&lt;/h2&gt;&lt;p&gt;不论你是刚刚接触科创的初学者还是富有经验的开发者，相信在这里，你都能找到好用的网站与工具，本站将持续更新&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;硬件开发&#34;&gt;硬件开发
+&lt;/h2&gt;&lt;h3 id=&#34;单片机&#34;&gt;单片机
+&lt;/h3&gt;&lt;h4 id=&#34;入门-arduino系列&#34;&gt;入门-Arduino系列
+&lt;/h4&gt;&lt;p&gt;为什么推荐Arduino，其具有以下优势&lt;/p&gt;
+&lt;p&gt;1、跨平台&lt;/p&gt;
+&lt;p&gt;Arduino IDE可以在Windows、Macintosh OSX、Linux三大主流操作系统上运行，而其他的大多数控制器只能在Windows上开发。&lt;/p&gt;
+&lt;p&gt;2、简单清晰的开发&lt;/p&gt;
+&lt;p&gt;Arduino IDE基于processing IDE开发。对于初学者来说，极易掌握，同时有着足够的灵活性。Arduino语言基于wiring语言开发，是对 AVRGCC库的二次封装，不需要太多的单片机基础、编程基础，简单学习后，你也可以快速的进行开发。&lt;/p&gt;
+&lt;p&gt;3、开放性&lt;/p&gt;
+&lt;p&gt;Arduino的硬件原理图、电路图、IDE软件及核心库文件都是开源的，在开源协议范围内里可以任意修改原始设计及相应代码。&lt;/p&gt;
+&lt;p&gt;4、社区与第三方支持&lt;/p&gt;
+&lt;p&gt;Arduino有着众多的开发者和用户，你可以找到他们提供的众多开源的示例代码、硬件设计。例如，可以在Github.com、Arduino.cc、Openjumper.com等网站找到Arduino第三方硬件、外设、类库等支持，更快更简单的扩展你的Arduino项目。&lt;/p&gt;
+&lt;p&gt;5、硬件开发的趋势&lt;/p&gt;
+&lt;p&gt;Arduino不仅仅是全球最流行的开源硬件，也是一个优秀的硬件开发平台，更是硬件开发的趋势。Arduino简单的开发方式使得开发者更关注创意与实现，更快的完成自己的项目开发，大大节约了学习的成本，缩短了开发的周期。&lt;/p&gt;
+&lt;h5 id=&#34;哪些情况arduino可能适合你&#34;&gt;哪些情况Arduino可能适合你：
+&lt;/h5&gt;&lt;blockquote&gt;
+&lt;p&gt;你从来没接触过硬件开发；&lt;br&gt;
+你想快速的开发，降低开发成本；&lt;br&gt;
+你的项目未来产量不大，或者就不会量产（这个需要你自己测算开发成本和生产成本的关系）；&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;哪些情况arduino可能不适合你&#34;&gt;哪些情况Arduino可能不适合你：
+&lt;/h5&gt;&lt;blockquote&gt;
+&lt;p&gt;如果你对处理能力，系统实时性有较高要求，那Arduino不适合你；&lt;br&gt;
+如果你的项目未来产量巨大，那Arduino也不适合你（这个需要你自己测算开发成本和生产成本的关系）；&lt;br&gt;
+对其他一种单片机或者硬件开发平台开发极其熟悉；&lt;br&gt;
+你项目会使用的到的类库在其他平台也有，且其他平台硬件成本、开发成本也很低；&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;arduino常用开发板&#34;&gt;Arduino常用开发板
+&lt;/h5&gt;&lt;h5 id=&#34;arduino-uno-r3&#34;&gt;Arduino UNO R3
+&lt;/h5&gt;&lt;p&gt;Arduino UNO R3是一款由Arduino公司推出的开源微控制器开发板。板载ATmega328P微控制器，这款微控制器具有20MHz的最大工作频率，以及高达20MIPS的性能。具有十分强大的功能和广泛的应用。它有14个数字输入/输出引脚(其中6个可以用作PWM输出)，6个模拟输入，一个16 MHz陶瓷谐振器，一个USB连接，一个电源插孔，一个ICSP头和一个复位按钮。
+&lt;img src=&#34;https://WangHongwei2004.github.io/p/test-chinese/1.png&#34;
+	width=&#34;2809&#34;
+	height=&#34;2571&#34;
+	srcset=&#34;https://WangHongwei2004.github.io/p/test-chinese/1_hu1158241162843923287.png 480w, https://WangHongwei2004.github.io/p/test-chinese/1_hu2346463098740284017.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;示意图&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;109&#34;
+		data-flex-basis=&#34;262px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h6 id=&#34;引脚&#34;&gt;引脚：
+&lt;/h6&gt;&lt;p&gt;1.电源引脚：&lt;/p&gt;
+&lt;p&gt;VIN：这是外部直流电源的输入引脚。当用户使用外部电源（如电池或电源适配器）为开发板供电时，应该将此引脚与电源的正极相连。当VIN引脚有电压输入时，它会覆盖USB或其他引脚提供的电源，为开发板供电。&lt;br&gt;
+5V：这是开发板上稳定的5V电压输出引脚，可以通过它为开发板上的其他组件或外部设备供电。&lt;br&gt;
+3.3V：这个引脚提供稳定的3.3V电压输出，最大驱动电流为50mA。这个电压常用于为某些特定组件供电。&lt;br&gt;
+GND：这是地线引脚，所有的电压和电流都以此为参考。在电路中，GND引脚用于闭合电路回路，并确保整个电路有一个公共的逻辑参考电平。&lt;/p&gt;
+&lt;p&gt;2.模拟输入引脚：&lt;/p&gt;
+&lt;p&gt;A0~A5：这六个引脚用于读取外部模拟信号。模拟信号是一种连续变化的信号，可以表示温度、压力、光强等多种物理量。Arduino通过这些引脚读取这些模拟信号，然后将其转换为数字值，供程序使用。&lt;/p&gt;
+&lt;p&gt;3.数字输入输出引脚：&lt;/p&gt;
+&lt;p&gt;Arduino UNO R3拥有14个数字I/O引脚，这些引脚既可以作为输入引脚读取外部设备的逻辑状态（高电平或低电平），也可以作为输出引脚控制外部设备的开关状态。&lt;/p&gt;
+&lt;p&gt;D13：这个引脚连接了一个板载的LED指示灯。用户可以通过编程控制这个引脚的状态，从而控制LED灯的亮灭。这是一个非常有用的指示工具，可以帮助用户了解代码的执行情况。&lt;br&gt;
+PWM引脚：Arduino UNO R3的某些数字引脚（D3、D5、D6、D9、D10、D11）支持PWM（脉宽调制）功能。这意味着用户可以通过编程控制这些引脚的电压，从而实现更精细的控制，如调节电机的速度或LED的亮度。&lt;br&gt;
+D0~D12：这些引脚也可以作为数字输入/输出引脚使用。其中，标有TX（发送）和RX（接收）的两个引脚用于串口通讯。在Arduino编程中，用户可以使用这两个引脚与计算机或其他设备进行数据交换。&lt;/p&gt;
+&lt;p&gt;4.其他引脚：&lt;/p&gt;
+&lt;p&gt;RESET：这是一个复位引脚。当用户按下连接到这个引脚的按钮时，Arduino会重置其内部状态，恢复到初始状态。这是一个非常有用的功能，特别是在程序出现问题或Arduino无法正常工作时。&lt;/p&gt;
+&lt;h5 id=&#34;arduio-nano&#34;&gt;Arduio Nano
+&lt;/h5&gt;&lt;p&gt;Arduino Nano 是一款基于ATmega 328P 8位微控制芯片的智能硬件开发板，尺寸小巧功能强悍。
+&lt;img src=&#34;https://WangHongwei2004.github.io/p/test-chinese/2.png&#34;
+	width=&#34;1086&#34;
+	height=&#34;768&#34;
+	srcset=&#34;https://WangHongwei2004.github.io/p/test-chinese/2_hu11442478207038186421.png 480w, https://WangHongwei2004.github.io/p/test-chinese/2_hu11818514104299230381.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;示意图&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;141&#34;
+		data-flex-basis=&#34;339px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h6 id=&#34;引脚-1&#34;&gt;引脚：
+&lt;/h6&gt;&lt;p&gt;引脚定义与Arduino Uno R3基本相同，此处不再赘述。&lt;/p&gt;
+&lt;p&gt;此处只对常用的两款Arduino开发板做介绍&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.arduino.cc/en/software&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Arduino官网&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;其他-esp32系列stm32系列51系列树莓派&#34;&gt;其他-ESP32系列、STM32系列、51系列、树莓派
+&lt;/h4&gt;&lt;h5 id=&#34;esp32系列&#34;&gt;ESP32系列
+&lt;/h5&gt;&lt;p&gt;ESP32 是乐鑫科技开发的一款低成本、低功耗、高集成度的 WiFi 和蓝牙双模微控制器芯片。&lt;br&gt;
+ESP32 的特点：&lt;br&gt;
+双核处理器：配备两个高性能Tensilica Xtensa LX6微处理器核心。
+内置无线功能：支持 Wi-Fi（802.11 b/g/n）和蓝牙（BLE 和经典蓝牙）。&lt;br&gt;
+支持多种编程语言：支持C/C++/Python编程。&lt;br&gt;
+低功耗模式：支持各种睡眠模式以降低功耗，适用于电池供电的设备。&lt;/p&gt;
+&lt;p&gt;二者均可使用ArduinoIDE来开发，所以从Arduino UNO转到esp32开发板的学习成本非常低，很多的驱动库都是兼容的，甚至很多代码都不需要做修改就可以直接使用&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cnblogs.com/Wangzx000/p/18463052&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;关于ESP32的具体划分可参考此处文章&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;stm32系列&#34;&gt;STM32系列
+&lt;/h5&gt;&lt;p&gt;对于有计算或控制要求的，STM32是更好选择。STM32如果买开发板的话就要从硬件底层学起，掌握它的各种细节。&lt;br&gt;
+STM32更注重工程实际，事实上工厂中很多简单的仪器什么温控仪，什么普通的电机控制器，什么低档PLC，还有民用中的一些玩具，游戏手柄、有线键盘鼠标等外设，高校食堂里刷卡的pos机等等其实用得很多。&lt;br&gt;
+STM32主要是给专业开发人员做产品用的，需要一定的专业知识，但同时编写代码实现功能也相对复杂。比如串口输出一个简单的字符串，对于Arduino可能从新建工程开始，10行代码就能实现，但是如果使用STM32的开发工具比如Keil，可能需要上行代码甚至更多。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.csdn.net/m0_46566693/article/details/141164275&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;STM32与Arduino和ESP32对比分析可参考此处文章&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;51单片机系列&#34;&gt;51单片机系列
+&lt;/h5&gt;&lt;p&gt;应用最广泛的8位单片机当然也是初学者们最容易上手学习的单片机，最早由Intel推出，由于其典型的结构和完善的总线专用寄存器的集中管理，众多的逻辑位操作功能及面向控制的丰富的指令系统，堪称为一代“经典”，为以后的其它单片机的发展奠定了基础。&lt;/p&gt;
+&lt;p&gt;51单片机之所以成为经典，成为易上手的单片机主要有以下特点：&lt;/p&gt;
+&lt;p&gt;51单片机特性&lt;br&gt;
+1、从内部的硬件到软件有一套完整的按位操作系统，称作位处理器，处理对象不是字或字节而是位。不但能对片内某些特殊功能寄存器的某位进行处理，如传送、置位、清零、测试等，还能进行位的逻辑运算，其功能十分完备，使用起来得心应手。&lt;br&gt;
+2、同时在片内RAM区间还特别开辟了一个双重功能的地址区间，使用极为灵活，这一功能无疑给使用者提供了极大的方便。&lt;br&gt;
+3、乘法和除法指令，这给编程也带来了便利。很多的八位单片机都不具备乘法功能，作乘法时还得编上一段子程序调用，十分不便。&lt;/p&gt;
+&lt;p&gt;51单片机缺点&lt;br&gt;
+1、AD、EEPROM等功能需要靠扩展，增加了硬件和软件负担。&lt;br&gt;
+2、虽然I/O脚使用简单，但高电平时无输出能力，这也是51系列单片机的最大软肋。&lt;br&gt;
+3、运行速度过慢，特别是双数据指针，如能改进能给编程带来很大的便利。&lt;br&gt;
+4、51保护能力很差，很容易烧坏芯片。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.csdn.net/Zevalin/article/details/134620292&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;51单片机入门可参考此处文章&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;树莓派&#34;&gt;树莓派
+&lt;/h5&gt;&lt;p&gt;树莓派（Raspberry Pi）是各种派中最早开始流行起来的一个嵌入式Linux板卡，其本质是尺寸仅有信用卡大小的一个小型电脑。你可以将树莓派连接电视、显示器、键盘鼠标等设备当一台正常Linux电脑使用，目前树莓派能替代日常桌面计算机的多种用途包括文字处理、电子表格、媒体中心甚至是游戏；也可以拿它来当作个人网站的服务器，构建自己的博客；甚至可以用树莓派的硬件资源做各种有趣的硬件项目，等等。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pidoc.cn/docs/computers/getting-started&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;树莓派文档可参考此处文章&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;开发软件&#34;&gt;开发软件
+&lt;/h2&gt;&lt;p&gt;聊完了常用的开发板，接下来向大家介绍一下好用的软件&lt;/p&gt;
+&lt;h3 id=&#34;pcb绘图-嘉立创eda&#34;&gt;PCB绘图-嘉立创EDA
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://WangHongwei2004.github.io/p/test-chinese/3.jpg&#34;
+	width=&#34;191&#34;
+	height=&#34;234&#34;
+	srcset=&#34;https://WangHongwei2004.github.io/p/test-chinese/3_hu8697894816538811367.jpg 480w, https://WangHongwei2004.github.io/p/test-chinese/3_hu4883226854229909764.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;嘉立创&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;81&#34;
+		data-flex-basis=&#34;195px&#34;
+	
+&gt;&lt;br&gt;
+立创EDA为板级EDA设计软件。EDA指的是通过计算机的辅助完成电路原理图、印刷电路板文件等的绘制、制作、仿真设计。
+立创EDA是一款基于浏览器的，专为中国人设计的，友好易用的EDA设计工具。起于2010年，完全由中国人独立开发，拥有独立自主知识产权。隶属于深圳市嘉立创科技发展有限公司，由嘉立创EDA团队开发。
+立创EDA服务于广大电子工程师、教育者、学生、电子制造商和爱好者。致力于中小原理图、电路图绘制，仿真，PCB设计与提供制造便利性。
+立创EDA拥有超过100多万在线免费元件库，并在实时更新。可在设计过程中检查元器件库存、价格和立即下单购买，缩短设计周期。
+立创EDA有两个版本，立创EDA专业版和立创EDA标准版。标准版面向学生，教育，功能和使用上更简单；专业版面向企业，团队，功能更加强大，约束性也更高。&lt;/p&gt;
+&lt;p&gt;立创EDA提供了标准版、专业版、教育版、私有化部署版等功能。&lt;/p&gt;
+&lt;p&gt;标准版&lt;/p&gt;
+&lt;p&gt;立创EDA标准版基于浏览器运行，轻量级，高效率，无需下载，打开网站就能开始设计。云端在线设计，文件云端存储，摆脱硬件储存束缚。Windows、Mac、Linux 多设备，跨平台支持，设计进度自动同步。兼容常用PCB设计软件，支持文件导入导出。
+立创EDA标准版提供团队协作功能，细化到单个工程权限管理。文件独立版本控制，互不影响；文件自动保存，一键恢复历史。一键生成Gerber文件、BOM文件、坐标文件，方便生产制造。
+立创EDA标准版支持常用元件的在线仿真，一键将原理图布局传递到PCB，一键导入图片LOGO到PCB。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://lceda.cn/editor&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;立创EDA标准版直链&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;专业版&lt;/p&gt;
+&lt;p&gt;立创EDA专业版是立创EDA团队花费一年的时间打造的全新版本。
+相对标准版功能更加强大，标准版的遗留问题都会解决掉，全新的 PCB 绘制。
+基于 WebGL 引擎，相对标准版更好的布线体验，可以流畅提供数万焊盘的 PCB 设计，顺滑流畅不卡顿。
+各种约束也会加强，提供规则管理等功能。
+提供器件选型功能，不需要频繁在立创商城和立创EDA编辑器之间来回切换。
+提供了器件概念，器件 = 符号 + 封装 + 3D模型，只允许放置器件在原理图画布中。加强库的复用。
+支持层次图绘制，可以支持多达 500 页原理图页绘制，PCB 支持五万个元件依然可以流畅缩放和平移和布线。
+支持一个工程多个单板设计。
+支持 DXF 导入导出，支持 PDF 导出。
+立创EDA专业版还在不断开发中，立创EDA标准版原有的一些功能将逐步提供，后续会提供推挤，差分，扇出，3D导出等高级功能。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pro.lceda.cn/editor&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;立创EDA专业版直链&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;立创EDA标准版和专业版均已推出客户端，用户可在没有网络时使用。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.csdn.net/weixin_63180933/article/details/134283242&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;嘉立创EDA入门可参考此文章&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;单片机开发软件-arduinoeda&#34;&gt;单片机开发软件-ArduinoEDA
+&lt;/h3&gt;&lt;p&gt;上文已经提到，此处不再赘述&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.arduino.cc/en/software&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Arduino官网&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;安卓开发-android-studio&#34;&gt;安卓开发-Android Studio
+&lt;/h3&gt;&lt;h4 id=&#34;android开发与android系统&#34;&gt;Android开发与Android系统
+&lt;/h4&gt;&lt;p&gt;Android开发是指Android平台上应用的制作。
+Android是一种基于Linux的自由及开放源代码的操作系统，Android 分为四个层，从高层到低层分别是应用程 序层、应用程序框架层、系统运行库层和 Linux 内核层。Google公司推出了开源的Android 系统，现在应用非常广泛，开发环境不会受到各种条条框框的限制，开发者任意修改开放的源代码来实现与开发各种实用的手机App软件，具有高级图形显示、界面友好等特点。
+Android有四大基本组件：Activity、Service、Broadcast Receivet、Content Provider。其中Activity是四大组件中最基本的一个，但基础并不等同于简单、不重要。恰恰相反，Activity作为基础组件，学好Activity就是我们开发者学好Android的前提。&lt;/p&gt;
+&lt;h4 id=&#34;android系统特点&#34;&gt;Android系统特点
+&lt;/h4&gt;&lt;p&gt;（1）系统开源。Android 由于最底层使用Linux 内核，使用的是GPL许可证， 意味着相关的代码是必须开源的。而
+Google以Apache开源许可证的授权方
+式，发布Android的源代码，供其他手机厂商直接使用现有操作系统，并允许各厂商按照自己的目的进行个性化定制。&lt;br&gt;
+（2）跨平台特性。由Java语言编写，继承了Java跨平台的特点。任何Android应用几乎无需做任何处理就能运行于所有的Android设备。这意味着各运营商可自由使用多形式的硬件设备，不拘泥于手机、平板等传统移动设备，电视和各种智能家居均可使用 Android 系统。&lt;br&gt;
+（3）丰富的应用。Android系统的开源性吸引了众多开发者为其平台开发各式各样的应用软件，广泛的应用来源让它的使用者较为方便的获取自己想要的应用，坚实的消费者基础让开发者有动力开发更多更好的应用软件。&lt;/p&gt;
+&lt;h4 id=&#34;android开发用什么工具&#34;&gt;Android开发用什么工具？
+&lt;/h4&gt;&lt;p&gt;基于IntelliJ IDEA的Android Studio+SDK+JDK+Genymotion** (当前趋势)  Android开发环境，基于IntelliJ IDEA，谷歌2013年I/O大会发布，现已更新到3.6.1版本（截止2020年3月），并支持NDK开发；&lt;br&gt;
+渐渐取代之前用的Eclipse ADT 成为新的Android开发工具，不管你是新手还是大神，建议全部转移到新的IDE上面来。&lt;/p&gt;
+&lt;h4 id=&#34;android-studio特点&#34;&gt;Android Studio特点
+&lt;/h4&gt;&lt;p&gt;Android Studio 是基于 IntelliJ IDEA 且适用于开发 Android 应用的官方集成开发环境 (IDE)。除了 IntelliJ 强大的代码编辑器和开发者工具，Android Studio 还提供更多可提高 Android 应用编译效率的功能，例如：&lt;/p&gt;
+&lt;p&gt;基于 Gradle 的灵活编译系统
+快速且功能丰富的模拟器
+统一的环境（供您开发适用于所有 Android 设备的应用）
+Apply Changes 功能可将代码和资源更改推送给正在运行的应用，而无需重启应用
+代码模板和 GitHub 集成，可协助您打造常见的应用功能及导入示例代码
+大量的测试工具和框架
+Lint 工具，能够找出性能、易用性和版本兼容性等方面的问题
+C++ 和 NDK 支持
+内置对 Google Cloud Platform 的支持，可轻松集成 Google 云消息传递和 App Engine。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.csdn.net/HandsomeDancer/article/details/104667134&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;参考文章&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;visual-studio&#34;&gt;Visual Studio
+&lt;/h3&gt;&lt;p&gt;对于刚刚接触编程的新手来说，最先需要熟练掌握的当然是语言之祖——C语言，而C语言IDE，首当其冲的必然是Visual Studio。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://visualstudio.microsoft.com/zh-hans/vs/getting-started/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Visual Studio官网直链&lt;/a&gt;&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://blog.csdn.net/Vickers_xiaowei/article/details/82755942&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Visual Studio入门教程&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;常用网站&#34;&gt;常用网站
+&lt;/h2&gt;&lt;h3 id=&#34;gihhub&#34;&gt;GiHhub
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://WangHongwei2004.github.io/p/test-chinese/4.png&#34;
+	width=&#34;96&#34;
+	height=&#34;96&#34;
+	srcset=&#34;https://WangHongwei2004.github.io/p/test-chinese/4_hu7072779885385113496.png 480w, https://WangHongwei2004.github.io/p/test-chinese/4_hu11345093517430330858.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;GitHub&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;br&gt;
+GitHub是一个基于Git的版本控制系统和代码托管平台，于2008年4月10日正式上线。作为全球最大的开源社区之一，它受到广大程序员的青睐。&lt;/p&gt;
+&lt;p&gt;GitHub提供了代码托管、版本管理、项目协作和软件开发工具集成等功能。开发者可以在平台上进行代码提交、合并和回滚，确保代码的完整性和可追溯性。同时，GitHub还支持多人协作开发，通过分支和拉取请求功能，多个开发者可以共同参与到同一项目中。&lt;/p&gt;
+&lt;p&gt;GitHub是开源项目的首选平台，成千上万的开源项目在此托管。用户可以在平台上报告问题、提交bug报告或功能请求，帮助开发者改进项目。GitHub还提供项目看板、任务分配和进度跟踪等功能，助力团队更好地进行项目管理。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub官网直链&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;gitee&#34;&gt;Gitee
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://WangHongwei2004.github.io/p/test-chinese/5.svg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Gitee&#34;
+	
+	
+&gt;&lt;br&gt;
+Gitee（码云）是一个基于Git的代码托管平台，于2013年推出，由开源中国公司开发。它提供中国本土化的代码托管服务，是国内领先的开源代码托管平台之一。Gitee不仅支持代码的版本控制和管理，还提供了团队协作、代码评审、项目管理等功能，方便开发者进行高效的代码开发和合作。此外，Gitee还推出了企业版、专业版和旗舰版等多个版本，以满足不同规模和类型企业的需求。截至2023年，Gitee已经有超过1200万名注册用户和2800万个代码仓库，成为中国境内规模最大的代码托管平台之一。Gitee致力于推动开源技术的发展，为开发者提供全面、高效、安全的代码托管和协作服务。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://gitee.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Gitee官网直链&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;立创开源硬件平台&#34;&gt;立创开源硬件平台
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://WangHongwei2004.github.io/p/test-chinese/6.jpg&#34;
+	width=&#34;322&#34;
+	height=&#34;234&#34;
+	srcset=&#34;https://WangHongwei2004.github.io/p/test-chinese/6_hu15002082947634660222.jpg 480w, https://WangHongwei2004.github.io/p/test-chinese/6_hu9253968033664799326.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;立创开源硬件平台&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;137&#34;
+		data-flex-basis=&#34;330px&#34;
+	
+&gt;&lt;br&gt;
+立创开源硬件平台是一个专注于开源硬件分享与交流的综合性平台，旨在促进开源硬件技术的普及与创新。该平台汇聚了大量优质的开源硬件项目，涵盖了电子设计、嵌入式开发、物联网应用等多个领域，为电子工程师、硬件爱好者及创业者提供了丰富的资源和技术支持。&lt;/p&gt;
+&lt;p&gt;在立创开源硬件平台上，用户可以轻松找到所需的硬件设计文件、电路图、源代码等，方便地进行学习和二次开发。同时，平台还提供了丰富的教程、案例和论坛交流功能，帮助用户快速掌握开源硬件的精髓，解决开发过程中的技术难题。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://oshwhub.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;立创开源硬件平台官网直链&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;其他开源网站&#34;&gt;其他开源网站
+&lt;/h3&gt;&lt;h4 id=&#34;博客园&#34;&gt;博客园
+&lt;/h4&gt;&lt;p&gt;博客园是一个面向开发者的知识分享社区。自创建以来，博客园一直致力并专注于为开发者打造一个纯净的技术交流社区，推动并帮助开发者通过互联网分享知识，从而让更多开发者从中受益。博客园的使命是帮助开发者用代码改变世界。  &lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.cnblogs.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.cnblogs.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;csdn&#34;&gt;CSDN
+&lt;/h4&gt;&lt;p&gt;CSDN是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区。&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.csdn.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.csdn.net/&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;oschina&#34;&gt;OSCHINA
+&lt;/h4&gt;&lt;p&gt;OSCHINA.NET 是目前领先的中文开源技术社区。我们传播开源的理念，推广开源项目，为 IT 开发者提供了一个发现、使用、并交流开源技术的平台。&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.oschina.net&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.oschina.net&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;segmentfault&#34;&gt;SegmentFault
+&lt;/h4&gt;&lt;p&gt;SegmentFault 思否是中国领先的新一代开发者社区和专业的技术媒体。我们为中文开发者提供纯粹、高质的技术交流平台以及最前沿的技术行业动态，帮助更多的开发者获得认知和能力的提升。自社区上线以来在广大开发者群体中享有极高的口碑及影响力，以技术问答、技术专栏、技术课程、技术资讯为核心的产品形态，目前已经覆盖和服务了超过 1000 万开发者，同时 SegmentFault 思否团队也是中国区最大的黑客马拉松 Hackathon 创新力赛事组织者。&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://segmentfault.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://segmentfault.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;文献检索&#34;&gt;文献检索
+&lt;/h3&gt;&lt;p&gt;中国知网&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.cnki.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.cnki.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;万方数据&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.wanfangdata.com.cn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.wanfangdata.com.cn/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;中国社会科学引文索引&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;http://cssci.nju.edu.cn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://cssci.nju.edu.cn/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;文献管理&#34;&gt;文献管理
+&lt;/h3&gt;&lt;p&gt;Endnote 文献管理软件&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.endnote-zh.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.endnote-zh.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NoteExpress参考文献管理工具系统 &lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.inoteexpress.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.inoteexpress.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;外文文献阅读&#34;&gt;外文文献阅读
+&lt;/h3&gt;&lt;p&gt;deepl 配合沉浸式翻译插件 &lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.deepl.com/zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.deepl.com/zh/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;小绿鲸&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.xljsci.com?regCode=fHNjFf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.xljsci.com?regCode=fHNjFf&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
